@@ -1,4 +1,4 @@
-# 🎓 Student Grades Prediction
+# Student Grades Prediction
 
 Predicting a student's math exam score from demographic and preparation factors, and their reading/writing scores — a case study in identifying achievement-gap drivers.
 
@@ -76,10 +76,8 @@ jupyter
 - Gather attendance, study-time, and prior-GPA data — stronger causal levers than demographic proxies.
 - Use demographic findings to understand disparities, not to make decisions about individual students.
 
-## Data Source & License
+## Data Source
 
-Dataset originally shared on Kaggle by user `spscientist`; used here for educational purposes.
+Dataset originally shared on Kaggle by user `spscientist`.
 
-## License
 
-MIT
